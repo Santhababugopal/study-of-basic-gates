@@ -1,8 +1,8 @@
 ### study-of-basic-gates
-NAME:SANTHABABU G
+NAME: SANTHABABU G
 
 
-REGISTER NUMBER:212224040292
+REGISTER NUMBER: 212224040292
 
 **AIM:** 
 
@@ -87,7 +87,8 @@ endmodule
 **Logic symbol & Truthtable**
 
 
-![image](https://github.com/user-attachments/assets/869119b6-6155-4093-a466-6d2a711caa6f)
+![Screenshot 2025-03-14 183108](https://github.com/user-attachments/assets/c89b7593-ff47-4440-92ca-9cc49e80dfbd)
+
 
 ![Screenshot 2025-03-14 180815](https://github.com/user-attachments/assets/0a6e344c-d063-4412-b91c-3c7a5b4b043b)
 
@@ -97,4 +98,6 @@ endmodule
 
 
 **Result:**
+
+
 Thus the truth table of logic gates in Quartus II using Verilog programming are studied,verified and executed successfully
