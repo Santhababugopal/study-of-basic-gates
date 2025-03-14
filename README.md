@@ -1,5 +1,7 @@
 ### study-of-basic-gates
 NAME:SANTHABABU G
+
+
 REGISTER NUMBER:212224040292
 
 **AIM:** 
